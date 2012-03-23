@@ -7,6 +7,7 @@ public class main extends Activity {
     /** Called when the activity is first created. 
      * 
      * This is a new comment
+     * This is other comment
      * 
      * */
     @Override
